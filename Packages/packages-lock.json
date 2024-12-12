@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.siddharthvarde22.utilityclasses": {
+      "version": "https://github.com/SiddharthVarde22/Utility_Classes.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "fe4cbfe383e6d72eeddaf649850b42e423b12337"
+    },
     "com.unity.burst": {
       "version": "1.8.7",
       "depth": 1,
